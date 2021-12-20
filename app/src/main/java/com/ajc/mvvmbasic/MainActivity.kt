@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
+
+
 //echo "# MVVM-Basics" >> README.md
 //git init
 //git add README.md
