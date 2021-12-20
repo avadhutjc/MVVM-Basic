@@ -10,15 +10,15 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-echo "# MVVM-Basics" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/avadhutjc/MVVM-Basics.git
-git push -u origin main
-
-git remote add origin https://github.com/avadhutjc/MVVM-Basics.git
-git add *
-git commit -m "first commit"
-git push -u origin main
+//echo "# MVVM-Basics" >> README.md
+//git init
+//git add README.md
+//git commit -m "first commit"
+//git branch -M main
+//git remote add origin https://github.com/avadhutjc/MVVM-Basics.git
+//git push -u origin main
+//
+//git remote add origin https://github.com/avadhutjc/MVVM-Basics.git
+//git add *
+//git commit -m "first commit"
+//git push -u origin main
